@@ -1,9 +1,20 @@
 ### Chilisa Shorten
 #### Mendenhall Postdoctoral Fellow and Research Geologist at the U.S. Geological Survey. 
 
+- Geologist and data scientist with 8 years of experience in quantitative research using a variety of data types (e.g. field, laboratory, big data) and analytical methods (e.g. thermal modeling, linear and stochastic models, machine learning algorithms). 
 
+- My postdoc ends in September 2021 and I’m currently seeking opportunities. 
+  - I’m interested in data scientist positions.
+  - I hope to continue integrating data science and machine learning techniques to solve physical scientific research.
 
-
+- Much of my research contains proprietary data but I’m working to increase my footprint on GitHub. 
+- The scripts posted here are generalized examples of research using oil and gas well and production data, including: 
+  - data processing
+  - imputation
+  - visualization
+  - statistical summaries
+  - linear regression
+  - spatial clustering
 
 Links:
 <p align="left">

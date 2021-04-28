@@ -1,7 +1,7 @@
 ### Chilisa Shorten
 #### Mendenhall Postdoctoral Fellow and Research Geologist at the U.S. Geological Survey 
 
-- Geologist and data scientist with 8 years of experience in quantitative research using a variety of data types (e.g. field, laboratory, big data) and analytical methods (e.g. thermal modeling, linear and stochastic models, machine learning algorithms). 
+- Geologist and data scientist with 7 years of experience in quantitative research using a variety of data types (e.g. field, laboratory, big data) and analytical methods (e.g. thermal modeling, linear and stochastic models, machine learning algorithms). 
 
 - My postdoc ends in September 2021 and <b>I’m currently seeking opportunities</b>. 
   - I’m interested in data scientist positions.

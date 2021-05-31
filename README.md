@@ -7,7 +7,7 @@
   - I’m interested in data scientist positions.
   - I hope to continue integrating data science and machine learning techniques to solve physical scientific research.
 
-- Much of my research contains proprietary data. but I’m working to increase my footprint on GitHub. 
+- Much of my research contains proprietary data but I’m working to increase my footprint on GitHub. 
 - I have experience in the following processes applied to geologic oil and gas well and production data: 
   - data processing
   - imputation

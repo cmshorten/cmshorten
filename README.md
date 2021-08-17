@@ -3,7 +3,7 @@
 
 - Geologist and data scientist with more than seven years of experience in quantitative research using a variety of data types (e.g. field, laboratory, big data) and analytical methods (e.g. thermal modeling, linear and stochastic models, machine learning algorithms). 
 
-- My postdoc ends in September 2021 and <b>I’m currently seeking opportunities</b>. 
+- <b>I’m currently seeking opportunities</b>. 
   - I’m interested in data scientist positions.
   - I hope to continue integrating data science and machine learning techniques into physical scientific research.
 
